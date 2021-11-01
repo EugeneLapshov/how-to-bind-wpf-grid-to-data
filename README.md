@@ -4,11 +4,12 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 <!--WARNING: This file has been automatically generated. Do not change it manually.-->
-# How to bind the WPF Data Grid control to data
+# Bind WPF Data Grid to Data
 
-The following examples demonstrate how to bind the [GridControl](https://documentation.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl.class) to different data sources.
+This example demonstrates how to bind the [GridControl](https://documentation.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl.class) to different data sources.
 
-See also: [How to: Implement CRUD Operations in a Data-Bound Grid](https://github.com/DevExpress-Examples/how-to-implement-crud-operations)
+See also: [Implement CRUD Operations in a Data-Bound Grid](https://github.com/DevExpress-Examples/how-to-implement-crud-operations)
+
 # C#
 ## CodeBehind
 ||Entity Framework 6 [?](https://docs.microsoft.com/en-us/ef/ef6/)|Entity Framework Core [?](https://docs.microsoft.com/en-us/ef/)|DevExpress XPO [?](https://docs.devexpress.com/XPO/1998/express-persistent-objects)|
