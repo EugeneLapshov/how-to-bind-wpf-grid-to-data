@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 <!--WARNING: This file has been automatically generated. Do not change it manually.-->
-# Bind WPF Data Grid to Data
+# Bind the WPF Data Grid to Data
 
 This example shows how to bind the [WPF Data Grid](https://docs.devexpress.com/WPF/6084/controls-and-libraries/data-grid) to different data sources. Refer to the following topic for more information: [Bind to Data](https://docs.devexpress.com/WPF/7352/controls-and-libraries/data-grid/bind-to-data).
 
