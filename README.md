@@ -8,6 +8,8 @@
 
 This example demonstrates how to bind the [GridControl](https://documentation.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl.class) to different data sources.
 
+![Bind WPF Data Grid to Data](https://docs.devexpress.com/WPF/images/WPF_Grid_GSResult.png)
+
 See also: [Implement CRUD Operations in a Data-Bound Grid](https://github.com/DevExpress-Examples/how-to-implement-crud-operations)
 
 # C#
